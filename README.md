@@ -14,11 +14,11 @@ UID-119074947
 - sorted list
 - 
 ## Instructions:
-- unzip Proj3_dhanush_sourang
+- unzip Proj3_sourang
 - open the terminal in the folder location and run the following command
 ```
 python3 a_star_sourang.py
 ```
--in the folder Proj3_dhanush_sourang, there should be a read me, a video recording and a main python script named a_star_sourang.py
+-in the folder Proj3_sourang, there should be a read me, a video recording and a main python script named a_star_sourang.py
 
 
